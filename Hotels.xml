@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+    <Hotel NearstAirport="Sky Harbor" Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="JFK Airport" Rating="4.5">
+        <Name>Hilton</Name>
+        <Phone>212-555-1234</Phone>
+        <Address>
+            <Number>45</Number>
+            <Street>Park Ave</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10001</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="LAX Airport">
+        <Name>Marriott</Name>
+        <Phone>310-555-5678</Phone>
+        <Phone>310-555-8765</Phone>
+        <Address>
+            <Number>789</Number>
+            <Street>Main St</Street>
+            <City>Los Angeles</City>
+            <State>CA</State>
+            <Zip>90001</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="O'Hare Airport" Rating="3.9">
+        <Name>Hyatt</Name>
+        <Phone>773-555-9999</Phone>
+        <Address>
+            <Number>500</Number>
+            <Street>Michigan Ave</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60611</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="Dallas/Fort Worth Airport" Rating="4.0">
+        <Name>Four Seasons</Name>
+        <Phone>214-555-3333</Phone>
+        <Address>
+            <Number>720</Number>
+            <Street>Commerce St</Street>
+            <City>Dallas</City>
+            <State>TX</State>
+            <Zip>75201</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="Miami International Airport">
+        <Name>Ritz-Carlton</Name>
+        <Phone>305-555-2222</Phone>
+        <Address>
+            <Number>101</Number>
+            <Street>Ocean Dr</Street>
+            <City>Miami Beach</City>
+            <State>FL</State>
+            <Zip>33139</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="Seattle-Tacoma Airport" Rating="4.3">
+        <Name>Sheraton</Name>
+        <Phone>206-555-4444</Phone>
+        <Address>
+            <Number>55</Number>
+            <Street>Pike St</Street>
+            <City>Seattle</City>
+            <State>WA</State>
+            <Zip>98101</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="Denver International Airport">
+        <Name>Omni</Name>
+        <Phone>303-555-7777</Phone>
+        <Address>
+            <Number>777</Number>
+            <Street>Market St</Street>
+            <City>Denver</City>
+            <State>CO</State>
+            <Zip>80202</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="San Francisco International Airport" Rating="4.1">
+        <Name>InterContinental</Name>
+        <Phone>415-555-8888</Phone>
+        <Address>
+            <Number>200</Number>
+            <Street>Mission St</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94105</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel NearstAirport="Boston Logan Airport" Rating="4.0">
+        <Name>Fairmont</Name>
+        <Phone>617-555-1111</Phone>
+        <Address>
+            <Number>300</Number>
+            <Street>Beacon St</Street>
+            <City>Boston</City>
+            <State>MA</State>
+            <Zip>02108</Zip>
+        </Address>
+    </Hotel>
+
+</Hotels>
